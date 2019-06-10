@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ejemplo1
+namespace Gestion_Juegos
 {
-    public partial class Form1 : Form
+    public partial class Vistajuego : Form
     {
-        public Form1()
+        public Vistajuego()
         {
             InitializeComponent();
         }
